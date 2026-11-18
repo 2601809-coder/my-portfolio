@@ -1,0 +1,15 @@
+css
+body {
+    background-color: lightblue;
+    font-family: Arial;
+    text-align: center;
+}
+
+h1 {
+    color: blue;
+}
+
+p {
+    color: black;
+    font-size: 18px;
+}
